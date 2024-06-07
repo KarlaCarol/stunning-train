@@ -1,4 +1,4 @@
-# Conteúdo modelo 
+# Conteúdo modelo :desktop_computer:	
 
 * Função;
 
@@ -14,7 +14,8 @@
 
 * Curriculum e carta de apresentação; 
 
-* LinkedIn; 
+* LinkedIn;
+  
 
 # O que eu já sei sobre os assuntos abordados? 
 
@@ -52,3 +53,10 @@ Aprendi a fazer uma apresentação mais elaborada, estratégias nas apresentaç�
 
 Tomei conhecimento em algumas formas mais eficaz de manter o código com uma leitura mais fácil e limpo menos repetitivo, e mais funcional.  
 
+
+
+# Minha evolução: 
+
+Aprendi a fazer uma apresentação mais elaborada, estratégias nas apresentações tanto em carta quanto em plataformas de empregabilidade; aprendi ter mais foco e disciplina em meus projetos e tarefas.  
+
+Tomei conhecimento em algumas formas mais eficaz de manter o código com uma leitura mais fácil e limpo menos repetitivo, e mais funcional.  
