@@ -1,6 +1,3 @@
-![capa](https://wall.alphacoders.com/big.php?i=157634.png)
-
-
 # Conteúdo modelo :desktop_computer:	:books:
 
 * Função;
