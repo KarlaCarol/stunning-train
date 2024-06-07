@@ -1,4 +1,7 @@
-# Conteúdo modelo :desktop_computer:	
+![capa](https://wall.alphacoders.com/big.php?i=157634.png)
+
+
+# Conteúdo modelo :desktop_computer:	:books:
 
 * Função;
 
@@ -17,7 +20,7 @@
 * LinkedIn;
   
 
-# O que eu já sei sobre os assuntos abordados? 
+# O que eu já sei sobre os assuntos abordados? :thinking:
 
 - Função é um subprograma que serve para deixar o código mais limpo e menos repetitivo. 
 
@@ -37,7 +40,7 @@
 
  
 
-# O que quero aprender sobre os temas abordados? 
+# O que quero aprender sobre os temas abordados? :nerd_face:	
 
 Me comunicar melhor e ter mais convicção; 
 
@@ -47,15 +50,9 @@ Me adaptar melhor aos métodos e bibliotecas;
 
 Melhorar o raciocínio lógico. 
 
-Minha evolução: 
-
-Aprendi a fazer uma apresentação mais elaborada, estratégias nas apresentações tanto em carta quanto em plataformas de empregabilidade; aprendi ter mais foco e disciplina em meus projetos e tarefas.  
-
-Tomei conhecimento em algumas formas mais eficaz de manter o código com uma leitura mais fácil e limpo menos repetitivo, e mais funcional.  
 
 
-
-# Minha evolução: 
+# Minha evolução: :rocket:
 
 Aprendi a fazer uma apresentação mais elaborada, estratégias nas apresentações tanto em carta quanto em plataformas de empregabilidade; aprendi ter mais foco e disciplina em meus projetos e tarefas.  
 
