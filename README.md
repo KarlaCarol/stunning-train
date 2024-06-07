@@ -1,3 +1,17 @@
-# Desafio Carreira 
+# Conteúdo modelo 
 
-[começo](https://i.gifer.com/Lhhm.gif)
+* [Função;] 
+
+* Tipos de dados; 
+
+* Tipos Utilitários; 
+
+* Métodos de string; 
+
+* Métodos array; 
+
+* Gestão de tempo; 
+
+* Curriculum e carta de apresentação; 
+
+* LinkedIn; 
